@@ -1,3 +1,3 @@
 # PythonCodes
 
-Solved answers for online python questions
+Solutions for Python question from HackerRank
